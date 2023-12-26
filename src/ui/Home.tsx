@@ -9,7 +9,7 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-          What is this?
+          Want to be degen and play coin flip?
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
           Welcome to the Pond Casino. Double your money or go broke degen.
