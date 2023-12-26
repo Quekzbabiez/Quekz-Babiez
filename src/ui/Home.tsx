@@ -12,7 +12,7 @@ export function Home() {
           What is this?
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          Welcome to the Pond Casino. Double your money or go broke degen.s
+          Welcome to the Pond Casino. Double your money or go broke degen.
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <NavButton
