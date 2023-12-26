@@ -12,7 +12,7 @@ export function Home() {
           What is this?
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          An open source, decentralized casino built on Gamba. Copy this platform with your own branding and start earning fees on every bet.
+          Welcome to the Pond Casino. Double your money or go broke degen.
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <NavButton
